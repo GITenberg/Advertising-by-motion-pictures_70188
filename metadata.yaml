@@ -1,11 +1,16 @@
 _repo: Advertising-by-motion-pictures_70188
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70188-h/images/cover.jpg
 creator:
   author:
     agent_name: Dench, Ernest Alfred
     gutenberg_agent_id: '55645'
     url: http://www.gutenberg.org/2009/agents/55645
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70188#Advertising-by-motion-pictures
 gutenberg_issued: '2023-03-02'
 identifiers:
   gutenberg: '70188'
